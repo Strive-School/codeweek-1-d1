@@ -1,0 +1,27 @@
+div p {
+    color: yellow;
+}
+
+p {
+    color: red;
+}
+
+.test {
+    color: lightblue;
+}
+
+#secondparagraph {
+    color: green;
+    background-color: white;
+}
+
+.subtitle {
+    font-size:20px;
+    font-weight: bold;
+}
+
+.nav {
+    background-color:black;
+    color: #fff;
+    height:50px;
+}
